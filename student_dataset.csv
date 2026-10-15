@@ -1,0 +1,150 @@
+student_id,branch,cgpa,skills,interests,career_goal,preferred_location,preferred_duration,minimum_stipend
+STU00001,CSE,8.15,Image Editing|Adobe Photoshop|Color Correction|Canva|Adobe Creative Suite|Creative Writing,Content Creation,Visual Content Creator,Ranchi,2,10000
+STU00002,IT,7.45,Machine Learning|Artificial Intelligence|Deep Learning|Automation|Python|Generative AI Tools,AI|Software Development,Python Development Intern (AI),Chandigarh,3,6500
+STU00003,CSE,8.31,CSS|Express.js|Node.js|MongoDB|React,Software Development,MERN Stack Developer,Bokaro Steel City,6,9000
+STU00004,CSE,9.28,Dart|iOS|Firebase|Git,Software Development|Mobile Development|App Development,Mobile App Developer,Nagercoil,3,6500
+STU00005,ECE,7.34,Machine Learning|Python|Deep Learning|Automation|Data Structures,Data Science|AI|Machine Learning,Python Development Intern (AI),Salem,4,5000
+STU00006,IT,7.34,Artificial Intelligence|Deep Learning|Machine Learning|Python|Automation|Generative AI Tools,Machine Learning,AI Systems Developer Intern,Zirakpur,6,6500
+STU00007,CSE,9.34,React|REST API|JavaScript|Software Testing,Software Testing|Automation,QA Automation Engineer,Dhanbad,4,4500
+STU00008,CSE,8.44,Logical Reasoning|C Programming|Data Structures|Algorithms|Creative Writing,Algorithm Design|Software Development|Competitive Programming,Algorithm Engineer,Ahmedabad,3,14000
+STU00009,CSE,7.08,Data Analysis|MS-Excel|Analytical Thinking|Market Analysis|Problem Solving|Data Interpretation|Research and Analytics|Effective Communication,Data Analysis|Business Analysis|Market Research,Data Analyst,Patiala,6,14500
+STU00010,CSE,8.2,Docker|Git|Computer Networking|Linux|Kubernetes|Python,Cloud Computing|DevOps|Software Development,DevOps Engineer,Gurgaon,2,8000
+STU00011,CSE,7.09,Data Structures|Object Oriented Programming (OOP)|Algorithms|Problem Solving|MySQL,Software Development|Application Development,Java Developer,Secunderabad,4,2500
+STU00012,ECE,7.09,Social Media Marketing|Google AdWords|Performance Marketing|Google Analytics,Social Media Marketing,Social Media Marketing Intern,Erode,6,6500
+STU00013,CSE,7.87,Flutter|iOS|Git,Mobile Development,Mobile App Developer,Madurai,6,5500
+STU00014,ECE,6,REST API|Node.js|SQL|Express.js|Python|Flask,Full Stack Development,Software Developer,Uttarakhand,6,7500
+STU00015,CSE,6,ARM Microcontroller|C Programming|Computer Networks|Internet of Things (IoT)|Python,Embedded Systems,IoT Software Development Intern,Pune,3,12500
+STU00016,IT,6.98,Dart|iOS|Firebase|Cloud Firestore|REST API|Git,App Development|Mobile Development,Flutter Developer,Nagercoil,6,6500
+STU00017,CSE,6.49,Python|Machine Learning|Deep Learning|Generative AI Tools|Automation|REST API,AI|Data Science|Machine Learning,Machine Learning Engineer,Coimbatore,3,6000
+STU00018,CSE,7.95,Flask|REST API|Data Structures|Django|Python|MongoDB|Problem Solving,Backend Development,Python Development Intern,Viluppuram,3,3500
+STU00019,IT,6.6,Flutter|iOS|Dart|Cloud Firestore,Software Development|Mobile Development|App Development,Mobile App Developer,Amritsar,3,9000
+STU00020,CSE,6.05,Lead Generation|Email Marketing|Social Media Marketing,Sales|Business Development|Lead Generation,Business Development Intern,Dharmapuri,6,7000
+STU00021,IT,9.21,Firebase|Dart|Flutter|REST API,Mobile Development|Software Development,Android/iOS Developer,Karur,3,7000
+STU00022,CSE,7.35,Node.js|MongoDB|Express.js|SQL|Git|HTML,Software Development|Web Development,MERN Stack Developer,Amritsar,3,12500
+STU00023,IT,7.67,Problem Solving|CSS|JavaScript|Java|Python|Git,Application Development|Software Development,Application Developer,Kanjanoor,6,35000
+STU00024,IT,6.03,Canva|Content Management|English Proficiency (Spoken)|Creative Writing|Social Media Marketing,Social Media Marketing,Copywriter Intern,Jharkhand,3,5000
+STU00025,IT,7,Problem Solving|Algorithms|Data Structures|SQL|Logical Reasoning|C++ Programming,Backend Development,Backend Developer,Bokaro Steel City,6,2500
+STU00026,CSE,7.72,Problem Solving|Object Oriented Programming (OOP)|Java|Algorithms|SQL|Data Structures,Backend Development|Application Development,Java Development Intern,Dehradun,6,3000
+STU00027,IT,6.33,Java|Object Oriented Programming (OOP)|SQL|C++ Programming,Software Development|Backend Development,Backend Developer,Villupuram,6,2000
+STU00028,IT,8.01,Automation|Artificial Intelligence|Data Structures,Software Development|Data Science,AI Systems Developer Intern,Jaipur,4,3500
+STU00029,CSE,6.94,CSS|C++ Programming|Git,Application Development,Software Developer,Kanjanoor,6,26000
+STU00030,IT,7.28,Cloud Firestore|Android|MongoDB,App Development|Software Development,Mobile App Developer,Navi Mumbai,3,4000
+STU00031,CSE,6.94,.NET|HTML|C#|Java,Full Stack Development|Software Development|Application Development,Application Developer,Mohali,3,33500
+STU00032,CSE,9.64,AWS CloudFormation|Computer Networking|CI/CD|Kubernetes|Linux|Docker|Cloud Computing,Software Development,AWS DevOps Engineer Intern,Salem,2,7000
+STU00033,ECE,7.59,JavaScript|React|Python|REST API|CSS|Node.js|Express.js|Git,Software Development|Web Development,Software Developer,Uttarakhand,6,10500
+STU00034,ECE,6.44,C++ Programming|CSS|MySQL|Problem Solving|Java,Full Stack Development|Software Development,Application Developer,Zirakpur,2,45000
+STU00035,CSE,8.5,REST API|CSS|SQL|MongoDB|Python,Software Development|Web Development,Software Developer,Salem,3,9500
+STU00036,IT,6.26,C#|CSS|HTML|C#.NET|SQL|MySQL,Backend Development|Full Stack Development|Software Development,.NET Developer,Navi Mumbai,6,5500
+STU00037,ECE,7.83,MS-Excel|Research and Analytics|Data Analysis|Effective Communication|Analytical Thinking,Market Research|Data Analysis,AI-Powered Business Analyst Intern,Salem,6,8500
+STU00038,CSE,6,.NET|C#|Problem Solving|Python|CSS,Application Development|Full Stack Development|Software Development,Software Developer,Jharkhand,3,36000
+STU00039,IT,6.14,Flask|Problem Solving|Data Structures|Django,Python Development|Backend Development|Full Stack Development,Python Development Intern,Gurgaon,3,3500
+STU00040,CSE,7.82,Django|Data Structures|SQL|Git|Python|REST API|Problem Solving,Python Development|Backend Development,Python Developer,Hyderabad,6,4000
+STU00041,IT,8.41,Dart|Cloud Firestore|Android|Firebase|Flutter|REST API,Software Development|Mobile Development,Android/iOS Developer,Mumbai,6,10000
+STU00042,CSE,7.79,Cloud Firestore|Dart|iOS|Firebase,Mobile Development,Mobile App Developer,Phagwara,2,8500
+STU00043,CSE,7.47,SQL|.NET|HTML|C#|C#.NET|CSS,Backend Development|Software Development|Full Stack Development,.NET Developer,Patiala,3,7500
+STU00044,IT,7.27,Problem Solving|REST API|Data Structures|Python|Flask|Django|MongoDB|SQL,Full Stack Development|Backend Development,Software Development Engineer,Amritsar,6,4000
+STU00045,IT,6,MySQL|HTML|Node.js|Git|JavaScript|React|Python|SQL,Backend Development,Web Application Developer,Bokaro Steel City,6,11000
+STU00046,CSE,6.81,Node.js|Git|SQL|Express.js|HTML|React|REST API,Full Stack Development|Software Development,Software Developer,Agra,6,11500
+STU00047,IT,7.09,Python|Flask|REST API|Data Structures|SQL,Full Stack Development|Backend Development,Python Developer,Ropar Division,6,2500
+STU00048,CSE,8.76,Artificial Intelligence|Python|Machine Learning|Automation,Data Science|Machine Learning,Python Development Intern (AI),Namakkal,3,5000
+STU00049,ECE,7.98,Content Management|English Proficiency (Spoken)|Canva|Creative Writing,Social Media Marketing|Creative Writing,Copywriter Intern,Ramgarh,6,4500
+STU00050,IT,6,Artificial Intelligence|Deep Learning|Machine Learning|Generative AI Tools|Python,Software Development,Machine Learning Engineer,Kanchipuram,6,6000
+STU00051,ECE,7.96,Git|Linux|Docker|AWS CloudFormation,DevOps|Cloud Computing,DevOps Engineer,Panchkula,6,2000
+STU00052,CSE,7.18,Google Analytics|Content Management|Performance Marketing|Google AdWords|Digital Marketing|Google Search Console|Canva,Digital Marketing|Content Marketing,Digital Marketing Intern,Haryana,6,11000
+STU00053,CSE,6.86,Instagram Marketing|Search Engine Optimization (SEO)|Performance Marketing|Email Marketing,Content Marketing,Digital Marketing Intern,Jamshedpur,3,7000
+STU00054,CSE,8.27,Flutter|Android|REST API|Dart|Git,App Development,Flutter Development Intern,Nagercoil,3,9000
+STU00055,CSE,8.73,Content Management|Email Marketing|Canva|Google AdWords|Google Keyword Planner|Instagram Marketing|Google Search Console,Growth Marketing|Digital Marketing,Social Media Marketing Intern,Kolkata,6,11000
+STU00056,IT,8.62,Java|Problem Solving|Logical Reasoning|Git,Software Development|Application Development,Software Development Intern,Ropar Division,3,38000
+STU00057,CSE,6.68,Canva|Google Search Console|Social Media Marketing|Email Marketing,Content Marketing,Social Media Marketing Intern,Bokaro Steel City,6,7500
+STU00058,ECE,7.26,Object Oriented Programming (OOP)|Algorithms|Logical Reasoning|SQL|Problem Solving,Backend Development|Application Development,Java Developer,Nagercoil,6,3000
+STU00059,ME,7.96,Lead Generation|Time Management|MS-Excel|Business Development|Email Marketing,Lead Generation|Sales,International Business Development Intern,Kolkata,6,5000
+STU00060,ECE,8.67,Logical Reasoning|Object Oriented Programming (OOP)|SQL|Java|Algorithms|Data Structures|Problem Solving,Software Development,Java Developer,Amritsar,3,2500
+STU00061,CSE,7.07,Time Management|Market Research|English Proficiency (Spoken)|Lead Generation|MS-Excel|Email Marketing|Business Development|LinkedIn Marketing,Business Development|Lead Generation,Business Development Intern,Mumbai,4,7500
+STU00062,ECE,7.4,MS-Office|Time Management|MS-PowerPoint|Effective Communication|MS-Excel,Business Development|Office Administration,Administrative Support Intern,Ropar Division,6,24000
+STU00063,CSE,6.38,Problem Solving|Flask|Object Oriented Programming (OOP)|Django,Backend Development|Software Development|Full Stack Development,Backend Developer,Patiala,3,3500
+STU00064,IT,6.28,MySQL|MongoDB|HTML|JavaScript|Node.js|Python,Full Stack Development|Web Development,Full Stack Developer,Namakkal,4,12000
+STU00065,IT,8.49,Cloud Firestore|iOS|Android|Firebase|Dart|Flutter|REST API,App Development|Mobile Development,Android/iOS Developer,Tiruchirappalli,6,4500
+STU00066,IT,9.09,Object Oriented Programming (OOP)|MongoDB|Git|REST API|Data Structures|Django|Flask|Problem Solving,Backend Development,Software Development Engineer,Tiruppur,6,4500
+STU00067,CSE,7.52,Firebase|REST API|Deep Learning,Software Development,Android/iOS Developer,Bangalore,3,4500
+STU00068,IT,8.7,Canva|Digital Marketing|Google AdWords|MS-Excel,Content Marketing|Social Media Marketing,Digital Marketing Intern,Pune,6,6000
+STU00069,IT,8,Market Research|LinkedIn Marketing|Lead Generation|MS-Excel,Sales|Business Development|Lead Generation,Business Development Intern,Dharmapuri,3,7500
+STU00070,CSE,6.89,Computer Networking|Linux|Docker|Git|AWS CloudFormation|Kubernetes|CI/CD|Cloud Computing,Cloud Computing|Infrastructure Engineering,Cloud Engineer,Tiruppur,3,8000
+STU00071,ECE,8,Lead Generation|Email Marketing|MS-Excel|English Proficiency (Spoken)|Market Research|Time Management,Business Development|Sales,Lead Generation Intern,Mohali,3,8000
+STU00072,CSE,9.29,Python|Automation|Machine Learning|Artificial Intelligence|Generative AI Tools|Deep Learning,Data Science|AI,Machine Learning Engineer,Navi Mumbai,6,6500
+STU00073,ECE,7.56,Digital Marketing|Google AdWords|Performance Marketing|Social Media Marketing|Google Keyword Planner|Generative AI Tools,Growth Marketing|Content Marketing,Growth Marketing Intern,Tiruchirappalli,6,7500
+STU00074,CE,9.32,Marketing Campaigns|Branding|MS-PowerPoint|Influencer Marketing|Time Management|Market Analysis|Marketing,Marketing|Client Servicing,Account Management Intern,Kanjanoor,6,10000
+STU00075,CSE,6,SQL|Java|Algorithms|Logical Reasoning|C++ Programming,Software Development,Software Engineer,Nagercoil,6,2500
+STU00076,IT,8.5,Content Management|Creative Writing|English Proficiency (Spoken)|Canva|Social Media Marketing,Social Media Marketing|Content Creation,Content Writer,Noida,2,4500
+STU00077,IT,7.7,Computer Networking|CI/CD|AWS CloudFormation|Cloud Computing|Linux|Docker,Cloud Computing|Infrastructure Engineering|Software Development,AWS DevOps Engineer Intern,Avadi,4,8500
+STU00078,IT,7.27,MS-PowerPoint|Time Management|Effective Communication|MS-Office|MS-Excel,Marketing|Office Administration,Operations Intern,Viluppuram,3,36500
+STU00079,CSE,7.7,Canva|Color Correction|Image Editing|Adobe Photoshop|Adobe Creative Suite|Creative Writing,Graphic Design|Creative Design,Photoshop Editor Intern,Ranchi,6,10000
+STU00080,IT,6,Logical Reasoning|C#|MySQL|C++ Programming|JavaScript|HTML|Java|Python,Application Development,Software Developer,Erode,3,47000
+STU00081,ECE,7.36,Business Development|English Proficiency (Spoken)|Email Marketing|Market Research|Lead Generation|Time Management|MS-Excel|LinkedIn Marketing,Business Development|Lead Generation|Sales,Lead Generation Intern,Kharar,6,7500
+STU00082,CSE,7.99,JavaScript|.NET|CSS|Python,Application Development|Full Stack Development|Software Development,Software Developer,Noida,6,48000
+STU00083,CSE,9.23,Effective Communication|Problem Solving|Data Interpretation|Research and Analytics|MS-Excel|Analytical Thinking|Market Analysis|Data Analysis,Business Analysis,AI-Powered Business Analyst Intern,Noida,3,15000
+STU00084,CSE,7.03,Problem Solving|Java|Algorithms|Logical Reasoning|C++ Programming,Software Development|Application Development,Backend Developer,Chandigarh,6,2500
+STU00085,ECE,6.71,Django|Data Structures|Object Oriented Programming (OOP)|REST API|Python|MongoDB|Git|SQL,Full Stack Development,Python Developer,Viluppuram,3,3500
+STU00086,CSE,7.05,Cloud Firestore|REST API|Android|Flutter,Mobile Development|Software Development|App Development,Android/iOS Developer,Agra,6,7500
+STU00087,ECE,8.61,LinkedIn Marketing|Google Search Console|Google Keyword Planner|Performance Marketing|Canva|Social Media Marketing,Digital Marketing|Content Marketing,Growth Marketing Intern,Kharar,3,5500
+STU00088,IT,7.96,Search Engine Optimization (SEO)|Social Media Marketing|Google Analytics|LinkedIn Marketing|Performance Marketing,Growth Marketing,Growth Marketing Intern,Ropar Division,3,8500
+STU00089,CSE,7.02,Branding|Marketing|Influencer Marketing|MS-Excel|MS-PowerPoint|Marketing Campaigns,Client Servicing,Account Management Intern,Jamshedpur,3,13500
+STU00090,CSE,8.16,.NET|C++ Programming|Python|HTML|CSS|C#|Problem Solving,Application Development|Software Development|Full Stack Development,Software Development Intern,Mohali,6,53500
+STU00091,IT,7.71,.NET|Problem Solving|C++ Programming|HTML|Python|CSS|Logical Reasoning,Full Stack Development|Application Development,Software Developer,Ropar Division,6,47000
+STU00092,IT,8.67,Adobe Photoshop|Image Editing|Color Correction|Canva|Creative Writing,Creative Design,Graphic Designer,Kharar,3,8000
+STU00093,CSE,6.83,Content Management|Search Engine Optimization (SEO)|English Proficiency (Spoken),Content Marketing|Digital Marketing,Digital Marketing Intern,Ahmedabad,6,5500
+STU00094,CSE,7.24,Machine Learning|Generative AI Tools|Deep Learning|Artificial Intelligence|Automation|Python|Data Structures,Machine Learning|Data Science,Python Development Intern (AI),Bokaro Steel City,6,7500
+STU00095,IT,7.17,Email Marketing|Search Engine Optimization (SEO)|Performance Marketing|Canva|Google Keyword Planner,Social Media Marketing|Digital Marketing|Content Marketing,Social Media Marketing Intern,Haryana,6,12000
+STU00096,CSE,6,HTML|C#|Canva,Backend Development|Software Development,.NET Developer,Kanchipuram,6,5500
+STU00097,ECE,7.93,Kubernetes|CI/CD|Python,Cloud Computing,Cloud Engineer,Dhanbad,3,4000
+STU00098,CSE,7.89,MS-Excel|Time Management|Marketing Campaigns|Market Analysis|Social Media Marketing,Client Servicing|Brand Management|Marketing,Account Management Intern,Dhanbad,6,10000
+STU00099,ECE,7.61,Lead Generation|Business Development|English Proficiency (Spoken)|Market Research|Social Media Marketing,Lead Generation|Business Development|Sales,International Business Development Intern,Patiala,3,6000
+STU00100,CSE,7.34,MS-Excel|Data Analysis|Market Analysis|Analytical Thinking|English Proficiency (Spoken),Market Research|Data Analysis,Media Planning Intern,Tiruchirappalli,3,10000
+STU00101,IT,6.04,Cloud Computing|Docker|CI/CD|Linux|Python,DevOps,DevOps Engineer,Jamshedpur,6,6000
+STU00102,ECE,7.14,MS-PowerPoint|Influencer Marketing|Time Management|Social Media Marketing,Marketing|Client Servicing,Brand & Marketing Intern,Bokaro Steel City,6,10000
+STU00103,CSE,7.22,Object Oriented Programming (OOP)|Data Structures|Problem Solving|Logical Reasoning|Algorithms|C++ Programming,Software Development|Backend Development,Backend Developer,Villupuram,3,2500
+STU00104,CSE,6.72,Algorithms|Object Oriented Programming (OOP)|Logical Reasoning|Java|Problem Solving,Backend Development|Application Development,Backend Developer,Villupuram,3,2000
+STU00105,IT,7.42,Express.js|REST API|JavaScript|Python|MySQL|Git|Node.js,Web Development|Backend Development,MERN Stack Developer,Noida,6,12500
+STU00106,CSE,8.04,C++ Programming|Problem Solving|MySQL,Application Development|Software Development,Application Developer,Avadi,6,35000
+STU00107,CSE,9.67,JavaScript|Automation|Git,Software Testing,QA Automation Engineer,Kanchipuram,3,2500
+STU00108,CSE,7.79,Automation|Machine Learning|Generative AI Tools|Deep Learning|REST API,Software Development|Machine Learning|AI,Python Development Intern (AI),Patiala,3,6000
+STU00109,IT,7.88,Search Engine Marketing (SEM)|Google Search Console|Email Marketing|LinkedIn Marketing|Performance Marketing|English Proficiency (Spoken),Social Media Marketing|Content Marketing,Growth Marketing Intern,Kanchipuram,6,9500
+STU00110,IT,7.52,Google AdWords|Google Search Console|Google Analytics|Search Engine Optimization (SEO)|Email Marketing|Social Media Marketing|Content Management|Performance Marketing,Content Marketing|Growth Marketing,Growth Marketing Intern,Gandhinagar,3,11000
+STU00111,IT,6,Search Engine Marketing (SEM)|Google Search Console|Social Media Marketing|Canva|LinkedIn Marketing|Google Keyword Planner|Content Management|Performance Marketing,Growth Marketing|Digital Marketing,Social Media Marketing Intern,Agra,6,9000
+STU00112,CSE,7.57,Google Keyword Planner|Email Marketing|SQL,Social Media Marketing|Content Marketing|Digital Marketing,Social Media Marketing Intern,Madurai,6,7500
+STU00113,IT,7.67,MS-Office|Effective Communication|MS-PowerPoint|Time Management|MS-Excel,Marketing|Office Administration,Marketing Intern,Noida,6,22500
+STU00114,CSE,10,Python|MongoDB|REST API|Data Structures,Software Development,Software Development Engineer,Ropar Division,6,3000
+STU00115,CSE,7.39,REST API|MongoDB|React|HTML|Django,Web Development|Software Development,MERN Stack Developer,Ramgarh,6,11000
+STU00116,CSE,7.93,Problem Solving|Data Structures|Object Oriented Programming (OOP)|Logical Reasoning,Backend Development|Software Development,Java Development Intern,Coimbatore,6,3000
+STU00117,ECE,7.56,CI/CD|Cloud Computing|AWS CloudFormation|Linux,Software Development|DevOps|Infrastructure Engineering,DevOps Engineer,Phagwara,6,6500
+STU00118,CSE,6.31,Problem Solving|Data Structures|Market Analysis,Full Stack Development,Backend Developer,Noida,3,2500
+STU00119,CSE,8.86,Google Search Console|Social Media Marketing|Performance Marketing|Search Engine Marketing (SEM)|Content Management|Digital Marketing|Google Keyword Planner,Digital Marketing,Digital Marketing Intern,Namakkal,2,10500
+STU00120,IT,8.43,Google Analytics|Google AdWords|Instagram Marketing|English Proficiency (Spoken),Digital Marketing|Content Marketing,Content and Social Media Marketing Intern,Coimbatore,6,4500
+STU00121,IT,8.47,Python|Automation|Deep Learning|Machine Learning,Software Development|Data Science|Machine Learning,AI Systems Developer Intern,Haryana,4,4500
+STU00122,CSE,6.6,Business Development|Lead Generation|Time Management|LinkedIn Marketing|Market Research,Sales|Business Development,Business Development Intern,Uttarakhand,2,6500
+STU00123,CSE,9.14,Search Engine Marketing (SEM)|Performance Marketing|Content Management|Google Analytics|Google Keyword Planner,Social Media Marketing|Growth Marketing,Social Media Marketing Intern,Secunderabad,6,7000
+STU00124,IT,6.06,Automation|Artificial Intelligence|Generative AI Tools|Python,Data Science|Software Development,Python Development Intern (AI),Madurai,3,6000
+STU00125,CSE,8.25,.NET|HTML|MySQL,Backend Development|Software Development|Full Stack Development,.NET Developer,Hyderabad,3,6000
+STU00126,IT,10,Business Development|Email Marketing|MS-Excel|Market Research|LinkedIn Marketing|English Proficiency (Spoken),Sales|Business Development|Lead Generation,Business Development Intern,Kanjanoor,3,7000
+STU00127,IT,6.51,SQL|Data Structures|Object Oriented Programming (OOP)|Algorithms|Problem Solving,Backend Development|Application Development|Software Development,Software Engineer,Patiala,6,2000
+STU00128,ECE,6.98,English Proficiency (Spoken)|Lead Generation|Email Marketing|LinkedIn Marketing|MS-Excel|Social Media Marketing,Business Development,Lead Generation Intern,Phagwara,6,6000
+STU00129,CSE,7.71,Data Structures|Object Oriented Programming (OOP)|MongoDB|Django,Full Stack Development|Software Development,Backend Developer,Tiruppur,6,3500
+STU00130,CSE,7.05,Generative AI Tools|Python|Data Structures,AI,Python Development Intern (AI),Coimbatore,6,5000
+STU00131,CSE,6,Git|REST API|HTML|MySQL|SQL|PHP,Web Development|Full Stack Development,Software Developer,Thane,6,11000
+STU00132,CSE,7.68,Problem Solving|Object Oriented Programming (OOP)|REST API|Git|Django|MongoDB,Python Development,Django Developer,Nagercoil,6,3500
+STU00133,IT,6.43,Digital Marketing|Google AdWords|Time Management,Digital Marketing,Social Media Marketing Intern,Bokaro Steel City,6,7000
+STU00134,CSE,8.12,Machine Learning|Automation|REST API,AI|Software Development,AI Engineer,Patiala,6,3000
+STU00135,ECE,6.59,Java|Logical Reasoning|SQL|Object Oriented Programming (OOP)|Data Structures|Problem Solving|Algorithms,Application Development,Java Developer,Noida,6,2500
+STU00136,IT,9.3,Object Oriented Programming (OOP)|Problem Solving|Logical Reasoning|Java|Algorithms|SQL|Data Structures,Application Development|Backend Development,Software Engineer,Dharmapuri,6,2500
+STU00137,IT,6.74,Software Testing|Python|Node.js|React,Automation|Software Testing,Automation Developer Intern,Agra,6,4500
+STU00138,CSE,7.25,Express.js|Python|SQL|CSS|HTML|REST API|JavaScript|Node.js,Web Development|Software Development|Full Stack Development,MERN Stack Developer,Madurai,3,16000
+STU00139,CSE,8.49,Marketing|Time Management|Market Analysis|Marketing Campaigns|MS-Excel|Social Media Marketing,Marketing,Client Servicing Intern,Madurai,3,9000
+STU00140,IT,6.25,Market Analysis|Branding|Time Management|Marketing|Social Media Marketing,Client Servicing|Marketing,Client Servicing Intern,Mumbai,3,11500
+STU00141,CSE,7.85,MS-PowerPoint|Market Analysis|Marketing|Time Management|Influencer Marketing|MS-Excel|Marketing Campaigns|Branding,Marketing,Marketing Intern,Jaipur,6,11000
+STU00142,IT,9.04,Automation|Artificial Intelligence|Machine Learning|Generative AI Tools,Software Development,Python Development Intern (AI),Coimbatore,6,6000
+STU00143,CSE,6,Content Management|Google AdWords|LinkedIn Marketing|Performance Marketing|Google Keyword Planner,Digital Marketing|Growth Marketing,Social Media Marketing Intern,Secunderabad,6,8000
+STU00144,IT,7.8,Artificial Intelligence|Python|Generative AI Tools|Automation|Machine Learning|Data Structures,Data Science|Machine Learning,Python Development Intern (AI),Viluppuram,6,4500
+STU00145,CSE,7.89,MS-Office|MS-PowerPoint|Time Management|MS-Excel,Marketing|Business Development,Administrative Support Intern,Namakkal,3,25000
+STU00146,CSE,8.46,Logical Reasoning|MySQL|HTML|Git,Software Development|Full Stack Development|Application Development,Application Developer,Mohali,6,30500
+STU00147,CSE,6.24,Problem Solving|Flask|Data Structures|REST API|Machine Learning,Software Development,Python Development Intern,Villupuram,6,3000
+STU00148,CSE,6.15,Effective Communication|MS-Excel|Data Interpretation|Market Analysis,Market Research|Business Analysis,AI-Powered Business Analyst Intern,Ramgarh,3,10500
+STU00149,IT,8.17,Django|MongoDB|SQL|Data Structures|Machine Learning,Software Development|Python Development,Django Developer,Madurai,6,3000
